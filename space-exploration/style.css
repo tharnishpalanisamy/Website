@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    color: #005389;
+    font-family: "Orbitron", sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+.btn{
+    padding: 6px 10px ;
+    border-radius: 2px;
+    background-color: lightblue;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    color: #005389;
+    font-weight: bold;
+
+}
+#main-logo{
+    margin-top: 30px;
+    width: 200px;
+}
+.underline {
+    border-bottom: 6px solid white;
+
+}
+
+.hero{
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding-bottom: 470px;
+    
+    /* text-shadow can have 3 values 1 is moving the shadow right or left , 2nd up or down and 3rd is blur  */
+}
+#title{
+    text-shadow: 0px 0px 4px black;
+}
+.bottom{
+    margin: 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @font-face {
+    font-family: "summa";
+    src: url("avengenz/Avengenz.ttf");} */
